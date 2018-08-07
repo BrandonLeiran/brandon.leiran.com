@@ -1,3 +1,5 @@
-Bob is awesome. :relieved:                       
+Bob is awesome.           
 
-Here's [a link to an emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)!!!
+# links to markdown help
+- [a link to an emoji cheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)!!!
+- [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
