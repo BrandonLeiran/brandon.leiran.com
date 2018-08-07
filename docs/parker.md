@@ -1,5 +1,12 @@
 Bob is awesome.           
 
+# My favorite games list
+1. Mechs and Minions
+1. The rockies
+1. the bobs
+1. the billies
+1. the fifth best
+
 # Rules to new game
 the bestest game!
 
