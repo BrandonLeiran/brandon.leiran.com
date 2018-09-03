@@ -26,4 +26,4 @@
 ## Parker
 - "You have to put a long of teamwork into it"
 - Good cooperative game
-- **Rating: /4**
+- **Rating: 4/4**
